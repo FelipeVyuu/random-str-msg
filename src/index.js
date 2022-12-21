@@ -12,6 +12,8 @@ const messages = [
   "This is not the commit message you are looking for",
   "Batman! (this commit has no parents)",
   "Mi nombre es Felipe",
+  "Mensaje nuevo. Si, en español.",
+  "Hola a los Latinx.",
 ];
 const funnyCommit = () => {
   const message = messages[Math.floor(Math.random() * messages.length)];
