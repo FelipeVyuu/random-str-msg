@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-felipelotas",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a simple function that selects a random message from the messages array and logs it to the console with a blue color using ANSI escape codes. The function returns no value.",
   "main": "index.js",
   "scripts": {
